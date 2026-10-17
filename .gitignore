@@ -1,0 +1,8 @@
+/dist/
+/tests/engine_tests
+/tests/engine_tests.exe
+__pycache__/
+*.pyc
+*.o
+.DS_Store
+settings.ini
